@@ -1,3 +1,8 @@
+# Previo
+
+Muchos de estos programas son recomendados por mucha gente, pero para discernir cuales hemos probando de primera mano, aplicamos el "sello" '|$|' junto a donde se definen los sistemas operativos para los que está disponible.
+
+
 ## Grabación de pantalla
 
 ### Loom (https://www.loom.com)
@@ -27,7 +32,7 @@ Dentro de la sencillez permite opciones más interesantes que kazam como una lup
 Aplicación por defecto de Apple (gratuita), de buena calidad y sencilla para grabar la pantalla o con la cámara. También permite hacer pequeñas ediciones de la grabación.
 
 ### OBS Studio (https://obsproject.com/es)
-(Windows / MAC / GNU/Linux)
+(Windows / MAC / GNU/Linux) |$|
 
 Es la más complicada de configurar inicialmente pero la que más opciones permite. Permite hacer grabaciones y es una herramienta sobretodo utilizada para hacer streaming en las plataformas principales de este medio. Permite incluso hacer directos y grabar al mismo tiempo.
 
@@ -96,7 +101,7 @@ Extremadamente potente y sencillo de utilizar.
 Permite grabar con chroma.
 
 ### Vegas Pro
-(Windows)
+(Windows) |$|
 
 También de pago y con versión de preuba de 30 días.
 
