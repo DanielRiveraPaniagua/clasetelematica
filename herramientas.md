@@ -2,7 +2,6 @@
 
 Muchos de estos programas son recomendados por mucha gente, pero para discernir cuales hemos probando de primera mano, aplicamos el "sello" '|$|' junto a donde se definen los sistemas operativos para los que está disponible.
 
-
 ## Grabación de pantalla
 
 ### Loom (https://www.loom.com)
@@ -42,6 +41,8 @@ Es una herramienta cómoda pero recomendada solamente si necesitas algo más com
 
 Se pueden realizar retransmisiones en directo a tu propio servidor y hay también varios tutoriales sobre como configurarlo por si no quieres usar las herramientas más comunes para ésto (o la universidad da la posibilidad de tener un sitio de directos propios)
 
+(Creo que se podría incluso llegar a integrar con jitsi pero no lo tengo claro).
+
 ### Camtasia
 
 Contenido en la sección de edición de videos.
@@ -74,6 +75,8 @@ Aplicación que trabaja también a niveles más profesionales incluso en su vers
 
 Es una buena herramienta y bastante recomendada por mucha gente. Tiene la parte de edición de video, aplicación de efectos visuales y mezcla de audio todo concentrado en el mismo programa.
 
+También tienen un sistema de support que activo.
+
 Puedes ser una buena opción si quieres mejorar un poco la calidad de tu video.
 
 ### Piranha (http://ifxsoftware.com/products/piranha/)
@@ -89,7 +92,7 @@ Puede ser una buena opción para los usuarios de linux con las mismas herramient
 
 Aun así la falta de información disponible sobre él me intriga especialmente.
 
-### Camtasia (https://www.techsmith.com/video-editor.html
+### Camtasia (https://www.techsmith.com/video-editor.html)
 (Windows / MAC)
 
 Es un software privativo y de pago con una versión de prueba de 1 mes.
@@ -105,6 +108,32 @@ Permite grabar con chroma.
 
 También de pago y con versión de preuba de 30 días.
 
-Actualmente en su versión 17, es una de las herramientas de edición más potente de video y audio. En todas sus iteraciones ha destacado siempre por su potencia y herramientas. Aun así no se queda atrás en el apartado de la sencillez ya que es bastante intuitivo a niveles bajo y medio.
+Actualmente en su versión 17, es una herramienta de edición potente de video y audio, aunque sea a un nivel menos profesional. En todas sus iteraciones ha destacado siempre por su potencia y herramientas. Es sencilla e intuitiva y se puede llegar a hacer grandes proyectos con ella.
 
-Muy recomendada si encuentras alguna versión incluso anterior a un precio adecuado. Algunas paǵinas de packs suelen ofrecer versiones anteriores del software a precios inferiores a 20$ con otras herramientas de la familia MAGIX.
+Recomendada si encuentras alguna versión incluso anterior a un precio adecuado. Algunas paǵinas de packs suelen ofrecer versiones anteriores del software a precios inferiores a 20$ con otras herramientas de la familia MAGIX.
+
+### ADOBE
+
+El paquete de adobe incluye paquetes con herramientas de todo tipo, incluido edición de video. Pero son herramientas de pago mensual.
+
+Son herramientas muy potentes pero incluso llegan a salirse de la perspectiva que tenemos que tener de clases online.
+
+## Herramientas Útiles
+
+### Sketch.io
+(Windows / MAC / GNU/Linux)
+
+Herramienta online que puede usarse de pizarra. Sencilla y cómoda. No incluye grandes facilidades tampoco.
+
+Tiene una versión de aplicación de escritorio por un precio de 5$.
+
+Puede usarse con tabletas de dibujo perfectamente. (Probablemente se pueda usar también con una tablet normal)
+
+Incluye la posibilidad de integrarse con google classroom de manera que las imágenes que se han dibujado se suban de manera automática al Google Drive de los alumnos.
+
+### gromit-mpx
+(GNU/Linux)
+
+Herramienta para hacer anotaciones en la pantalla. Puede cambiarse el color y activarse a través de un atajo del teclado para que no interrumpa el flujo de la clase.
+
+Se puede integrar con tabletas de dibujo.
