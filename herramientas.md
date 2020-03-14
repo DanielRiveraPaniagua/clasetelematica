@@ -24,7 +24,7 @@ Dentro de la sencillez permite opciones más interesantes que kazam como una lup
 ### Apple QuickTime (https://support.apple.com/quicktime)
 (MAC)
 
-Aplicación gratuita, de buena calidad y sencilla para grabar la pantalla o con la cámara. También permite hacer pequeñas ediciones de la grabación.
+Aplicación por defecto de Apple (gratuita), de buena calidad y sencilla para grabar la pantalla o con la cámara. También permite hacer pequeñas ediciones de la grabación.
 
 ### OBS Studio (https://obsproject.com/es)
 (Windows / MAC / GNU/Linux)
@@ -36,3 +36,70 @@ Puedes configurar varios perfiles diferentes y escenarios para decidir que quier
 Es una herramienta cómoda pero recomendada solamente si necesitas algo más complejo u hacer las clases en directo puesto que la interfaz en un primer momento puede ser abrumadora.
 
 Se pueden realizar retransmisiones en directo a tu propio servidor y hay también varios tutoriales sobre como configurarlo por si no quieres usar las herramientas más comunes para ésto (o la universidad da la posibilidad de tener un sitio de directos propios)
+
+### Camtasia
+
+Contenido en la sección de edición de videos.
+
+## Edición de video
+
+### Windows Movie Maker
+(Windows)
+
+Es una herramienta supersencilla para unir varios trozos de video o hacer videos de fotos. Forma parte del windows essentials de 2012 con lo que puede que tengas que hacer un par de cosas para encontrarlo. Como alternativa modernizada de ésta herramienta proponemos la siguiente.
+
+### Windows Fotos
+(Windows 8/10)
+
+Esta herramienta es lo que ha sustituido a movie maker y es muy parecido. No hace falta instalar nada por que lo normal es que ya lo tengas. Simplemente puedes unir y recortar videos. Puede quedarse como una herramienta demasiado sencilla.
+
+### Lightworks (https://www.lwks.com/)
+(Windows / MAC / GNU/Linux)
+
+Una aplicación de edición profesional. Ha sido utilizado incluso a la hora de hacer películas profesionales(Centurion, The king's Speech, Mamma Mia!, entre otras)
+
+Existen una versión gratuita cuya limitación más importante es que solo deja exportar en mp4 a máximo de 720p. Aun así no debería suponer mayores inconvenientes.
+
+La interfaz es muy parecida a aplicaciones de pago y puedes llegar a estructurar videos igual que en ellas (mezclando varios videos, cortando audio, superponiendo...). Aun así para la parte básica de recortar y unir partes es muy buena y rinde bien.
+
+### DaVinci Resolve (https://www.blackmagicdesign.com/es/products/davinciresolve/)
+(Windows / MAC / GNU/Linux)
+
+Aplicación que trabaja también a niveles más profesionales incluso en su versión gratuita. Permite hacer las mismas cosas que herramientas de pago.
+
+Es una buena herramienta y bastante recomendada por mucha gente. Tiene la parte de edición de video, aplicación de efectos visuales y mezcla de audio todo concentrado en el mismo programa.
+
+Puedes ser una buena opción si quieres mejorar un poco la calidad de tu video.
+
+### Piranha (http://ifxsoftware.com/products/piranha/)
+(Windows / MAC / GNU/Linux)
+
+__REVISAR POR LA FALTA DE INFORMACIÓN QUE HAY SOBRE ÉL SUPUESTAMENTE POR SER BASTANTE ANTIGUO__
+
+__NO recomendado hasta que se tenga certeza de que pasa con él__
+
+Parece ser un software un poco desconocido pero potente ya que películas como Avatar lo han usado (supuestamente).
+
+Puede ser una buena opción para los usuarios de linux con las mismas herramientas que otras aplicaciones de pago.
+
+Aun así la falta de información disponible sobre él me intriga especialmente.
+
+### Camtasia (https://www.techsmith.com/video-editor.html
+(Windows / MAC)
+
+Es un software privativo y de pago con una versión de prueba de 1 mes.
+
+A parte de para edición de video también sirve para capturar la pantalla con varias opciones en éste aspecto que pueden ser interesantes como efectos del cursor para resaltar partes de la pantalla.
+
+Extremadamente potente y sencillo de utilizar.
+
+Permite grabar con chroma.
+
+### Vegas Pro
+(Windows)
+
+También de pago y con versión de preuba de 30 días.
+
+Actualmente en su versión 17, es una de las herramientas de edición más potente de video y audio. En todas sus iteraciones ha destacado siempre por su potencia y herramientas. Aun así no se queda atrás en el apartado de la sencillez ya que es bastante intuitivo a niveles bajo y medio.
+
+Muy recomendada si encuentras alguna versión incluso anterior a un precio adecuado. Algunas paǵinas de packs suelen ofrecer versiones anteriores del software a precios inferiores a 20$ con otras herramientas de la familia MAGIX.
